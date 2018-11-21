@@ -1,7 +1,7 @@
 # Sam-Virtual-Assistant
 A simple virtual assistant build in Javascript.
 
-##Things you can ask to Sam :
+## Things you can ask to Sam :
 
 ### What's your name ?
 
