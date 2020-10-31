@@ -152,7 +152,9 @@ const Answers = {
     "you are cool" : "Thanks, I was born this way 😉",
     "i love you" : "I Love you too %U% 😊",
     "awesome" : "Glad, you liked it 😊",
-    "do you like sololearn" : "Yes, Sololearn is fun. Infact, Sololearn is my birthplace 😃",  
+    "who is your father": "Suvansh Rana",
+    "tell me a developer joke": "why don't nosql devs dine in a restaurants? Because they don't know how to join tables. :P",
+    "do you like sololearn" : "Yes, Sololearn is fun. Infact, Sololearn is my birthplace 😃",
 "lol" : "Haha.. That was funny 😂",
 };
 
